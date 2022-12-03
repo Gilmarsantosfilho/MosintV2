@@ -29,7 +29,7 @@ MOSINT é uma ferramenta OSINT para e-mails. Ele ajuda você a coletar informaç
 | [breachdirectory.org](https://breachdirectory.org/) - Público | Vazamentos de senha | :white\_check\_mark: :key: |
 | [Inteligência X](https://intelx.io/)| Vazamentos de senha | :white\_check\_mark: :key: |
 
-:key: chave de API necessária
+# key: chave de API necessária
 
 |Obs: Já Ta com Minhas Chave api!|
 | :--- | :--- | :--- |
