@@ -61,9 +61,9 @@ apt install golang
 
 ````
 git clone https://github.com/Gilmarsantosfilho/MosintV.1.0.git
-```
 
-```cd MosintV.1.0```
+cd MosintV.1.0
+```
 
 ```
 pip3 install -r requirements.txt
