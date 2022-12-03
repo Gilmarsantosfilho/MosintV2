@@ -31,6 +31,11 @@ MOSINT é uma ferramenta OSINT para e-mails. Ele ajuda você a coletar informaç
 
 # key: chave de API necessária
 
-|Obs: Já Ta com Minhas Chave api!|
+| Serviço | Função | Estado |
 | :--- | :--- | :--- |
-| [Inteligência X](https://intelx.io/)| Chave |"Hunter.io API Key": "ff91e7e53d0ac705c99e755b398b80b9b17b75d5" | :white\_check\_mark: 🔑: |
+| [ipapi.co](https://ipapi.co/) - Público | Mais informações sobre domínio | :white\_check\_mark: |
+| [hunter.io](https://hunter.io/) - Público | E-mails Relacionados | :white\_check\_mark: :key: |
+| [emailrep.io](https://emailrep.io/) - Público | Nomes de sites violados | :white\_check\_mark: :key: |
+| [scylla.so](https://scylla.so/) - Público | Vazamentos de banco de dados | :construção: |
+| [breachdirectory.org](https://breachdirectory.org/) - Público | Vazamentos de senha | :white\_check\_mark: :key: |
+| [Inteligência X](https://intelx.io/)| Vazamentos de senha | :white\_check\_mark: :key: |fdfdfdfd |
