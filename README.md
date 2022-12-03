@@ -31,8 +31,6 @@ MOSINT é uma ferramenta OSINT para e-mails. Ele ajuda você a coletar informaç
 | [Intelligence X](https://intelx.io/)| Password Leaks | :white\_check\_mark: :key: |
 
 
-
-
 ## Serviços (APIs):
 
 \[Já Vem com minhas Chave api\]
@@ -44,13 +42,25 @@ MOSINT é uma ferramenta OSINT para e-mails. Ele ajuda você a coletar informaç
 | [breachdirectory.org](https://breachdirectory.org/) - Público | API Key": "be2b2ce0-7289-11ed-a5d1-99f90d862581", | :white\_check\_mark: :key: |
 | [Inteligência X](https://intelx.io/)| API Key": "0ccf7d4d-28bc-4dde-83b5-b02801a631d2" | :white\_check\_mark: :key: |
 
-# Como instalar 
 
+#### Testado em:
+
+- [x] Termux
+- [x] Linux
+
+# Como instalar - [x] Termux
+
+***Necessario ter a linguem "golang"
+
+```
+apt install golang
+```
 
 `git clone https://github.com/Gilmarsantosfilho/MosintV.1.0.git`
 
 `cd MosintV.1.0`
 
 `pip3 install -r requirements.txt`
+
 
 
