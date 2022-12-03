@@ -27,6 +27,7 @@ MOSINT é uma ferramenta OSINT para e-mails. Ele ajuda você a coletar informaç
 | [emailrep.io](https://emailrep.io/) - Público | api embreve | :white\_check\_mark: :key: |
 | [breachdirectory.org](https://breachdirectory.org/) - Público | API Key": "be2b2ce0-7289-11ed-a5d1-99f90d862581", | :white\_check\_mark: :key: |
 | [Inteligência X](https://intelx.io/)| Vazamentos de senha | :white\_check\_mark: :key: |
+|
 
 # key: chave de API necessária
 
