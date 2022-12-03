@@ -58,10 +58,10 @@ pip install -U pip
 apt install golang
 ```
 
+# Clonar o repositorio
 
-````
+```
 git clone https://github.com/Gilmarsantosfilho/MosintV.1.0.git
-
 cd MosintV.1.0
 ```
 
