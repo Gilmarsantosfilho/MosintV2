@@ -58,6 +58,15 @@ pip install -U pip
 apt install golang
 ```
 
+**INSTALAR PYTHON SE NÃO TIVER***
+```
+apt install python
+
+apt install python2
+
+apt install python3
+```
+
 # Clonar o repositorio
 
 ```
@@ -67,6 +76,12 @@ cd MosintV.1.0
 
 ```
 pip3 install -r requirements.txt
+```
+
+***Modo de uso***
+
+```
+python3 mosint.py -e gilmartikinho270@gmail.com
 ```
 
 
