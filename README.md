@@ -52,16 +52,22 @@ MOSINT é uma ferramenta OSINT para e-mails. Ele ajuda você a coletar informaç
 
 ***Necessario ter a linguem "golang"***
 
-```pip install -U pip```
+```
+pip install -U pip
+
 apt install golang
 ```
 
 
-````git clone https://github.com/Gilmarsantosfilho/MosintV.1.0.git```
+````
+git clone https://github.com/Gilmarsantosfilho/MosintV.1.0.git
+```
 
 ```cd MosintV.1.0```
 
-```pip3 install -r requirements.txt```
+```
+pip3 install -r requirements.txt
+```
 
 
 
