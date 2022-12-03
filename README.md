@@ -15,3 +15,16 @@ MOSINT é uma ferramenta OSINT para e-mails. Ele ajuda você a coletar informaç
 * Pesquisa de DNS
 * Pesquisa de IP
 * Saída para arquivo de texto
+
+## Serviços (APIs):
+
+\[não é necessário para executar o programa\]
+
+| Serviço | Função | Estado |
+| :--- | :--- | :--- |
+| [ipapi.co](https://ipapi.co/) - Público | Mais informações sobre domínio | :white\_check\_mark: |
+| [hunter.io](https://hunter.io/) - Público | E-mails Relacionados | :white\_check\_mark: :key: |
+| [emailrep.io](https://emailrep.io/) - Público | Nomes de sites violados | :white\_check\_mark: :key: |
+| [scylla.so](https://scylla.so/) - Público | Vazamentos de banco de dados | :construção: |
+| [breachdirectory.org](https://breachdirectory.org/) - Público | Vazamentos de senha | :white\_check\_mark: :key: |
+| [Inteligência X](https://intelx.io/)| Vazamentos de senha | :white\_check\_mark: :key: |
