@@ -47,3 +47,10 @@ MOSINT é uma ferramenta OSINT para e-mails. Ele ajuda você a coletar informaç
 # Como instalar 
 
 
+`git clone https://github.com/Gilmarsantosfilho/MosintV.1.0.git`
+
+`cd MosintV.1.0`
+
+`pip3 install -r requirements.txt`
+
+
