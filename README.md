@@ -1,4 +1,4 @@
-# ***MosintV.1.0***
+# ***MosintV2***
 
 ## O que é o MOSINT
 
@@ -70,8 +70,8 @@ apt install python3
 # Clonar o repositorio
 
 ```
-git clone https://github.com/Gilmarsantosfilho/MosintV.1.0.git
-cd MosintV.1.0
+git clone https://github.com/Gilmarsantosfilho/MosintV2
+cd /MosintV2
 ```
 
 ```
